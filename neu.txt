@@ -1,7 +1,3 @@
 neu
-
 2
-
-
-A = B+C;
-
+neue formel
